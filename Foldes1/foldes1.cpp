@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 
 void SomeCode() {
@@ -6,3 +7,5 @@ void SomeCode() {
 	std::cout << a * b << std::endl;
 	std::cout << a - b << std::endl;
 }
+=======
+>>>>>>> parent of 3ae2678 (SomeCode functions that sum a b)
